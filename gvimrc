@@ -1,5 +1,5 @@
 " Disable Toolbar
-set guioptions-=T
+"set guioptions-=T
 
 " Set dark background
 set background=dark
